@@ -18,8 +18,6 @@ import com.google.common.base.Function;
 import com.google.common.base.Predicate;
 import com.google.common.collect.FluentIterable;
 
-import br.com.caelum.vraptor.core.DefaultReflectionProvider;
-import br.com.caelum.vraptor.core.ReflectionProvider;
 
 public class ReflectionProviderTest {
 
